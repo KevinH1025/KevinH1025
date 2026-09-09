@@ -6,7 +6,7 @@ I work across machine learning, from graph neural networks and reinforcement lea
 
 **CartPoleAI / SnakeAI**: DDQN and PPO implemented from scratch in PyTorch, including replay buffers, target networks and reward shaping.
 
-**LLM Agent Benchmarking**: TUM team project, [[link]](https://github.com/kschwethelm/agentic-cdm-benchmark). We compared 8 open-source models on task success, accuracy and latency across 2400 clinical cases. I worked on the tools the model could call.
+**LLM Agent Benchmarking**: TUM team project, [[Here]](https://github.com/kschwethelm/agentic-cdm-benchmark). We compared 8 open-source models on task success, accuracy and latency across 2400 clinical cases. I worked on the tools the model could call.
 
 **GridCheck**: multi-drone power line inspection. I built the simulation environment on PX4, Gazebo and ROS2.
 
