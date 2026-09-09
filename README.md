@@ -2,7 +2,9 @@ MSc Robotics, Cognition and Intelligence at TU Munich, BSc Electrical Engineerin
 
 I work across machine learning, from graph neural networks and reinforcement learning to LLM systems, evaluation and trustworthiness.
 
-### Projects Here
+### Projects
+
+**CV Agent**: a Model Context Protocol server giving a coding agent tool-calling actions over a real workflow, with Pydantic-validated edits behind a stage, preview and commit gate.
 
 **CartPoleAI / SnakeAI**: DDQN and PPO implemented from scratch in PyTorch, including replay buffers, target networks and reward shaping.
 
@@ -12,7 +14,7 @@ I work across machine learning, from graph neural networks and reinforcement lea
 
 **Physics-Inspired Models**: my master's thesis. Predicting circuit-level metrics from the SKY130 PDK so expensive SPICE simulation can be skipped, with physics-based constraints so the model stays valid outside its training data.
 
-**Autonomous Driving**: TUM team project. Perception, MPC trajectory planning and control in C++ on ROS Noetic, with a Unity simulator.
+**Autonomous Driving**: TUM team project. C++ on ROS Noetic with a Unity simulator. I built the perception pipeline and state machine, feeding an MPC planner developed by the team.
 
 **ViennaEMC**: bachelor thesis work. Parallelized Jacobi and BiCGSTAB solvers in C++ with OpenMP and Eigen, inside an open-source Monte Carlo device simulator.
 
