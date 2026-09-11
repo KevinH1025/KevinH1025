@@ -5,6 +5,7 @@ I work across machine learning, from graph neural networks and reinforcement lea
 ### LLM systems
 
 - **CV Agent**: a Model Context Protocol server giving a coding agent tool-calling actions over a real workflow, behind a stage, preview and commit gate.
+- **Medical Memo**: physician audio memos to structured medical reports. Whisper transcription, LLM extraction and Pydantic-validated output.
 - **[LLM Agent Benchmarking](https://github.com/kschwethelm/agentic-cdm-benchmark)**: TUM team project comparing 8 open-source models across 2400 clinical cases. I worked on the tools the model could call.
 
 ### Robotics
